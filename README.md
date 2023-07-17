@@ -6,5 +6,5 @@ coverY: 0
 
 # Welcome to The Shianese Dictionary
 
-Here are some pages you might be interested in when starting learning Shianese.
+You can also reffer to the [Wiki](http://127.0.0.1:5000/o/717nC6K253NOkZs6QgtK/s/7T4YQTFOYM7NHA7bhYUP/) to learn more about Shiaine.
 
