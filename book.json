@@ -1,15 +1,14 @@
 "plugins": ["redirects"]
 "pluginsConfig": {
-  "redirects": {
-    "searchTerms": [
-      {
-        "from": "々",
-        "to": "writing-systems/#usage-of-々"
-      },
-      {
-        "from": "Kanji Repetition Sign",
-        "to": "writing-systems/#usage-of-々"
-      }
-    ]
-  }
+	"redirects": {
+		"searchTerms": [{
+				"from": "々",
+				"to": "writing-systems/#usage-of-々"
+			},
+			{
+				"from": "Kanji Repetition Sign",
+				"to": "writing-systems/#usage-of-々"
+			}
+		]
+	}
 }
