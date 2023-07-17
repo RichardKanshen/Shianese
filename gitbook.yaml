@@ -1,4 +1,4 @@
 root: ./
 
 redirects:  
-    redirect/kanji-repetition-sign: writing-system
+    redirect/kanji-repetition-sign: writing-system.md
