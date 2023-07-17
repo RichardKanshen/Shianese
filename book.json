@@ -1,5 +1,7 @@
-"plugins": ["redirects"]
-"pluginsConfig": {
+[
+{"plugins": ["redirects"]},
+
+{"pluginsConfig": {
 	"redirects": {
 		"searchTerms": [{
 				"from": "々",
@@ -12,3 +14,6 @@
 		]
 	}
 }
+}
+
+]
