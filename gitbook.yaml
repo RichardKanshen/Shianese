@@ -1,2 +1,4 @@
+root: ./
+
 redirects:  
     redirect/kanji-repetition-sign: writing-system
