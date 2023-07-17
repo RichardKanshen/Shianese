@@ -4,4 +4,4 @@
 
 ## Redirects <a href="#redirect" id="redirect"></a>
 
-* [々](redirect/undefined.md)
+* [々](redirect/kanji-repetition-sign.md)
