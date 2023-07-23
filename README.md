@@ -33,5 +33,5 @@ _noun_
 
 _**Also see:**_
 
-* Shia
-* Ine
+* しあ
+* いね
