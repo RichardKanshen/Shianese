@@ -2,6 +2,20 @@
 description: The official Shianese Dictionary by </kanshen>
 cover: .gitbook/assets/obrázok_2023-07-16_181720971.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Welcome to The Shianese Dictionary
