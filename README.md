@@ -24,7 +24,7 @@ You can also refer to the [Wiki](http://127.0.0.1:5000/o/717nC6K253NOkZs6QgtK/s/
 
 ***
 
-## しあいね <a href="#shiaine" id="shiaine"></a>
+## しあいね (Shiaine) <a href="#shiaine" id="shiaine"></a>
 
 _noun_
 
