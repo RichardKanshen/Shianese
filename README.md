@@ -24,6 +24,24 @@ You can also refer to the [Wiki](http://127.0.0.1:5000/o/717nC6K253NOkZs6QgtK/s/
 
 ***
 
+## いね (Ine)
+
+_noun_
+
+1. language
+
+***
+
+## しあ (Shia)
+
+_noun_
+
+1. love
+
+_verb_
+
+1. to love
+
 ***
 
 ## しあいね (Shiaine) <a href="#shiaine" id="shiaine"></a>
@@ -35,5 +53,5 @@ _noun_
 
 _**Also see:**_
 
-* しあ
-* いね
+* [しあ](./#shia-shia)
+* [いね](./#ine-ine)
